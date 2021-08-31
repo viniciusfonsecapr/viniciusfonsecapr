@@ -16,6 +16,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="vini-JavaScript" height="30" width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">
   <img height="100px" weight="100px" align="right" alt="vini-link" src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif">
 </div>
   
