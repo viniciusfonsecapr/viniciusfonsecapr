@@ -22,8 +22,6 @@
  
   ##
    
- <br><br>
- 
   ## 💻 Minhas Redes Sociais 
   <br>
   <div> 
