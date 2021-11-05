@@ -10,16 +10,14 @@
  <div>
   <a href="https://github.com/viniciusfonsecapr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="vini-JavaScript" height="30" width="40" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">
-  <img height="100px" weight="100px" align="right" alt="vini-link" src="https://media.giphy.com/media/YWUpVw86AtIbe/giphy.gif">
-</div>
-  
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=Tokyonight"/>
+</div><br>
+  ## 🚀 Minhas Skills
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+ 
+ 
   ##
   
   <div> 
