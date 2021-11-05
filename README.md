@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Git, Github, StackOverflow e outras.</strong>
+  💼 Ferramentas: <strong>VS Code, Git, Github, StackOverflow, FIGMA, e outras.</strong>
 </p>
 
 <p align="left">
