@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Muito Prazer me chamo, Vincius Gabriel Fonseca e atualmente sou estudande de <strong>Desenvolvimento Fullstack Web/App </strong>.<br>
+  Muito Prazer, Sou Vinicius Gabriel Fonseca e atualmente sou estudande de <strong>Desenvolvimento Fullstack Web/App </strong>.<br>
   Atualmente trabalho em uma área diferente, e estou estudando para me tornar um desenvolvedor FullStack.
 </p>
 
