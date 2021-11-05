@@ -1,8 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Muito Prazer, Sou Vinicius Gabriel Fonseca e atualmente sou estudande de <strong>Desenvolvimento Fullstack Web/App </strong>.<br>
-  Atualmente trabalho em uma área diferente, e estou estudando para me tornar um desenvolvedor FullStack.
+  💜 Olá, meu nome é {Vinicius Gabriel Fonseca}!
+  Atualmente sou estudande de <strong>Desenvolvimento Fullstack Web/App </strong>.<br>
+  Trabalho em uma área diferente com manutenção de ferramentas, e estou estudando para me tornar um desenvolvedor FullStack.
 </p>
 
 <p align="left">
@@ -43,7 +44,7 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
  
  
-  ##
+  ## ⭐ Informações sobre minha conta GitHub
    
  <div>
   <a href="https://github.com/viniciusfonsecapr">
