@@ -34,12 +34,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
- <div>
-  <a href="https://github.com/viniciusfonsecapr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
- 
   ## 🚀 Minhas Skills <br>
  
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -49,4 +43,11 @@
  
   ##
    
+ <div>
+  <a href="https://github.com/viniciusfonsecapr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=tokyonight"/>
+</div><br>
+ 
+
   
