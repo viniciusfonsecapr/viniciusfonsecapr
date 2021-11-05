@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  💜 Olá, meu nome é {Vinicius Gabriel Fonseca}!
+  💜 Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
   Atualmente sou estudande de <strong>Desenvolvimento Fullstack Web/App </strong>.<br>
   Trabalho em uma área diferente com manutenção de ferramentas, e estou estudando para me tornar um desenvolvedor FullStack.
 </p>
