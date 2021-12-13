@@ -7,7 +7,8 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML, CSS, JAVASCRIPT, NODE.JS +EXPRESS+(NODEMON E INSOMNIA).</strong>
+  🦄 Linguagens: <strong>HTML, CSS, JAVASCRIPT, NODE.JS +EXPRESS+(NODEMON E INSOMNIA), REACT 
+  .</strong>
 </p>
 
 <p align="left">
