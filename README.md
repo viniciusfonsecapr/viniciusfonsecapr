@@ -7,13 +7,20 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias que tenho conheecimento: <strong>HTML, CSS, JAVASCRIPT, NODE.JS +EXPRESS+(NODEMON E INSOMNIA), REACT 
+  🦄 Linguagens e Tecnologias que tenho conheecimento: <strong>
+• HTML 
+• CSS 
+• JavaScript 
+• React | React Native 
+• TailwindCSS
+• Bootstrap
+• Styled Components 
+• Node.js+Express API REST/RESTFul / Consumo de API's
+• Git e Github
   .</strong>
 </p>
 
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Git, Github, StackOverflow, FIGMA, e outras.</strong>
-</p>
+
 
 <p align="left">
   💌 Para entrar em contato comigo, disponibilizei as seguintes redes e contatos: ⤵️
