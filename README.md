@@ -13,7 +13,6 @@
 • JavaScript 
 • React | React Native 
 • TailwindCSS
-• Bootstrap
 • Styled Components 
 • Node.js+Express API REST/RESTFul / Consumo de API's
 • Git e Github
