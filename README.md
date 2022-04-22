@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens e Tecnologias que tenho conheecimento: <strong>
+  🦄 Linguagens e Tecnologias que tenho conhecimento: <strong>
 • HTML 
 • CSS 
 • JavaScript 
