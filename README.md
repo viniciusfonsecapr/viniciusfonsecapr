@@ -26,7 +26,7 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vinicius-f-39a73413b/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/viniciusfonsecapr/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5541984502954" alt="WhatsApp">
