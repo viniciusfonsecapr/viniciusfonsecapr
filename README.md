@@ -13,7 +13,7 @@
 
 <p align="left">
   🦄 <strong>Linguagens e Tecnologias que tenho conhecimento: </strong>
- <strong>
+ <strong><br><br>
 🖼 Em Front-End possuo experiencia, com Javascript, HTML, CSS , React.JS e Figma, utilizando também TailwindCSS e Bootstrap e Styled Components (Criando telas de login, Manutenção de Paginas e Aplicações, Criação de Landing pages e Aplicações com base em designs do figma, Aplicações para Cadastro e Formularios).
 
  💻 No Back-end , criação utilizando Postgress e MongoDB,Insomnia, Postbird, MongoDB, Docker., com Docker auxiliando, venho aprimorando e aplicando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, fazendo consumo de APIs, API Restful, Criação de Controllers, Models, Middlewares de Authorização de Segurança com JWT. 
