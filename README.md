@@ -8,7 +8,7 @@
 <p align="left"> 
   💜 Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
   Atualmente sou <strong>Desenvolvedor Fullstack Web/App Junior</strong>.<br>
-  Trabalho em uma área diferente com manutenção de ferramentas, e estou estudando para me tornar um Desenvolvedor FullStack ainda mais completo.
+  e estou estudando para me tornar um Desenvolvedor FullStack ainda mais completo a cada dia.
 </p>
 
 <p align="left">
