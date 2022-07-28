@@ -12,11 +12,17 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Linguagens e Tecnologias que tenho conhecimento: </strong>
- <strong><br><br>
-🖼 Em Front-End possuo experiencia, com Javascript, HTML, CSS , React.JS e Figma, utilizando também TailwindCSS e Bootstrap e Styled Components (Criando telas de login, Manutenção de Paginas e Aplicações, Criação de Landing pages e Aplicações com base em designs do figma, Aplicações para Cadastro e Formularios).
+  🦄 <strong>Um pouco sobre mim: </strong>
+ <strong><br>
+ Estou sempre em busca para adquirir novos conhecimentos, seja para evoluir nas tecnologias que já tenho conhecimento, como também adquirindo outros conhecimentos sobre novas tecnologias, afim de sempre estar aprimorado e capacitado para resolver  os problemas enfrentados. 
 
- 💻 No Back-end , criação utilizando Postgress e MongoDB,Insomnia, Postbird, MongoDB, Docker., com Docker auxiliando, venho aprimorando e aplicando meus conhecimentos de desenvolvimento em Node.JS utilizando JavaScript e ferramentas como Express, fazendo consumo de APIs, API Restful, Criação de Controllers, Models, Middlewares de Authorização de Segurança com JWT. 
+🖼 Em Front-End possuo experiência, com React.JS,  Javascript, HTML, CSS, Criação de Telas em Sistemas de  Micro Front End,  utilização de ferramentas como Figma, utilizando também TailwindCSS e Bootstrap e Styled Components. com essa Tecnologia criando telas de login, registro, também de ecommerce, manutenção de paginas e aplicações diversas, criação e manutenção de landing pages(sites), e aplicações web com o conceito mobile first.
+
+ 💻 No Back-end ,a criação foi utilizando Node.JS, Postgress e MongoDB, Insomnia, Postbird, MongoDB, Docker,  API Restful, Criação de Controllers, Models, Middlewares de Autorização de Segurança com JWT, consumo de API's , venho aprimorando e aplicando meus conhecimentos de desenvolvimento em Node.JS diariamente utilizando ferramentas como Express, Mongoose, Nodemon.
+
+📑 Também utilizo e faço o uso de sistema de versionamento  utilizando Git, Github como ferramentas para isso. 
+
+➕ Minhas experiências também me permitiram desenvolver qualidades pessoais ao longo do tempo, como uma mentalidade colaborativa, um bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, análise crítica  e autocritica e resolução de problemas.
   .</strong>
 </p>
 
@@ -28,9 +34,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/viniciusfonsecapr/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="/></a>
-
-
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" width={800}/></a>
 
 </p>  
 
