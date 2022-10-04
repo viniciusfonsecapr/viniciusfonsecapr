@@ -26,24 +26,13 @@
   .</strong>
 </p>
 
+## 💌 Meu Contato
+ [![Meu Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/viniciusfonsecapr/)
 
-
-<p align="left">
-  💌 Para entrar em contato comigo, disponibilizei as seguintes redes e contatos: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/viniciusfonsecapr/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" width={800}/></a>
-
-</p>  
-
-<br><br>
+<br>
 
   ## 🚀 Minhas Skills <br>
- 
- [![Minhas Habilidades](https://skillicons.dev/icons?i=react,js,html,css,tailwind,styledcomponents,express,nodejs,mongodb,postgres,docker,git,github,gitlab,netlify,linux)](https://skillicons.dev)
- 
+ [![Minhas Habilidades](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,styledcomponents,figma,express,nodejs,mongodb,postgres,docker,git,github,gitlab,netlify,linux)](https://skillicons.dev)
  
   ## ⭐ Informações sobre minha conta GitHub
    
