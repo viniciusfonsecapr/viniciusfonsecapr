@@ -28,8 +28,6 @@
 ## 💌 Meu Contato
  [![Meu Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/viniciusfonsecapr/)
 
-<br>
-
   ## 🚀 Minhas Skills <br>
  [![Minhas Habilidades](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,styledcomponents,figma,express,nodejs,mongodb,postgres,docker,git,github,gitlab,netlify,linux)](https://skillicons.dev)
  
