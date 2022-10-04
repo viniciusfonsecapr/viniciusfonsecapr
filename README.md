@@ -2,17 +2,16 @@
   <img src="https://profile-counter.glitch.me/viniciusfonsecapr/count.svg" />
 </p>
 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/87347314/193730764-dcfd2ae4-6622-4057-9c7d-e62a32b16a13.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  💜 Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
+  🙋‍♂️ Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
   Atualmente sou <strong>Desenvolvedor Fullstack</strong>.<br>
   e estou estudando para me tornar um Desenvolvedor FullStack ainda mais completo a cada dia.
 </p>
 
 <p align="left">
-  🦄 <strong>Um pouco sobre mim: </strong>
+  📄 <strong>Um pouco sobre mim: </strong>
  <strong><br>
  Estou sempre em busca para adquirir novos conhecimentos, seja para evoluir nas tecnologias que já tenho conhecimento, como também adquirindo outros conhecimentos sobre novas tecnologias, afim de sempre estar aprimorado e capacitado para resolver  os problemas enfrentados. 
 
