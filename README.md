@@ -38,6 +38,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
- 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=viniciusfonsecapr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
+
