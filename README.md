@@ -6,23 +6,18 @@
 
 <p align="left"> 
   🙋‍♂️ Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
-  Atualmente sou <strong>Desenvolvedor Fullstack</strong>.<br>
-  e estou estudando para me tornar um Desenvolvedor FullStack ainda mais completo a cada dia.
+  Atualmente sou <strong>Desenvolvedor Front-end</strong>.<br>
 </p>
 
 <p align="left">
-  📄 <strong>Um pouco sobre mim: </strong>
- <strong><br>
- Estou sempre em busca para adquirir novos conhecimentos, seja para evoluir nas tecnologias que já tenho conhecimento, como também adquirindo outros conhecimentos sobre novas tecnologias, afim de sempre estar aprimorado e capacitado para resolver  os problemas enfrentados. 
+ <strong>
+   Tenho conhecimentos nas seguintes tecnologias: React JS, Javascript, HTML, CSS, Figma, Tailwind CSS, Bootstrap, Materiaul UI e Styled Components , NodeJS com Express, Mongoose, Nodemon, com bancos de dados relacionais e não relacionais, AWS DynamoDB, AWS Lambda, AWS API GETAWAY, Docker , criação de API REST. Uso também de ferramentas como Sequelize, Postman, Insomnia.
 
-🖼 Em Front-End possuo experiência, com React.JS,  Javascript, HTML, CSS, Criação de Telas em Sistemas de  Micro Front End,  utilização de ferramentas como Figma, utilizando também TailwindCSS e Bootstrap e Styled Components. com essa Tecnologia criando telas de login, registro, também de ecommerce, manutenção de paginas e aplicações diversas, criação e manutenção de landing pages(sites), e aplicações web com o conceito mobile first.
+Também tenho experiência com versionamento de código usando Git e Github.
 
- 💻 No Back-end ,a criação foi utilizando Node.JS, Postgress e MongoDB, Insomnia, Postbird, MongoDB, Docker,  API Restful, Criação de Controllers, Models, Middlewares de Autorização de Segurança com JWT, consumo de API's , venho aprimorando e aplicando meus conhecimentos de desenvolvimento em Node.JS diariamente utilizando ferramentas como Express, Mongoose, Nodemon.
+Minhas experiências profissionais anteriores me permitiram desenvolver qualidades pessoais como bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, análise crítica, como criar um bom planejamento, responsabilidade e mentalidade corporativa.
+  </strong>
 
-📑 Também utilizo e faço o uso de sistema de versionamento  utilizando Git, Github como ferramentas para isso. 
-
-➕ Minhas experiências também me permitiram desenvolver qualidades pessoais ao longo do tempo, como uma mentalidade colaborativa, um bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, análise crítica  e autocritica e resolução de problemas.
-  .</strong>
 </p>
 
 ## 💌 Meu Contato
