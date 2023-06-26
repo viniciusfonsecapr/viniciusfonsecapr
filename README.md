@@ -1,8 +1,4 @@
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/viniciusfonsecapr/count.svg" />
-</p>
 
-<img src="https://user-images.githubusercontent.com/87347314/193730764-dcfd2ae4-6622-4057-9c7d-e62a32b16a13.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   🙋‍♂️ Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
