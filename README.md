@@ -1,32 +1,43 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vinicius Fonseca
+========================================================================================================================================
 
+Fullstack Developer React JS
+----------------------------
 
-<p align="left"> 
-  🙋‍♂️ Olá, meu nome é {Vinicius Gabriel Fonseca}! <br>
-  Atualmente sou <strong>Desenvolvedor Front-end</strong>.<br>
-</p>
+I'm 24 years old, currently a fullstack and technology student. - Studying and improving my skills in Reactjs, Nodejs and React Native.
+
+* 🌍  I'm based in São José dos Pinhais, Paraná, Brasil
+* 🖥️  See my portfolio at [My Portfolio in Github](http://https://github.com/viniciusfonsecapr/viniciusfonsecapr)
+* ✉️  You can contact me at [vinicius\_fonseca30@hotmail.com](mailto: vinicius_fonseca30@hotmail.com)
+* 🧠  I'm learning React Native and its technology, both front and back-end
+* 🤝  I'm open to collaborating on In any project linked to technologies in my domain and open to new learning and new technologies
+
+### Skills
+
 
 <p align="left">
- <strong>
-   Tenho conhecimentos nas seguintes tecnologias: React JS, Javascript, HTML, CSS, Figma, Tailwind CSS, Bootstrap, Materiaul UI e Styled Components , NodeJS com Express, Mongoose, Nodemon, com bancos de dados relacionais e não relacionais, AWS DynamoDB, AWS Lambda, AWS API GETAWAY, Docker , criação de API REST. Uso também de ferramentas como Sequelize, Postman, Insomnia.
-
-Também tenho experiência com versionamento de código usando Git e Github.
-
-Minhas experiências profissionais anteriores me permitiram desenvolver qualidades pessoais como bom relacionamento com colegas de trabalho e clientes, boa aceitação de feedback, análise crítica, como criar um bom planejamento, responsabilidade e mentalidade corporativa.
-  </strong>
-
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
 </p>
 
-## 💌 Meu Contato
- [![Meu Contato](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/viniciusfonsecapr/)
 
-  ## 🚀 Minhas Skills <br>
- [![Minhas Habilidades](https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,styledcomponents,figma,express,nodejs,mongodb,postgres,docker,git,github,gitlab,netlify,linux)](https://skillicons.dev)
- 
-  ## ⭐ Informações sobre minha conta GitHub
-   
- <div>
-  <a href="https://github.com/viniciusfonsecapr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
+### Socials
 
+<p align="left"> <a href="https://www.github.com/viniciusfonsecapr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/viniciusfonsecapr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/viniciusfonsecapr"><img src="https://github-readme-stats.vercel.app/api?username=viniciusfonsecapr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="viniciusfonsecapr's GitHub stats" /></a>
+
+<a href="http://www.github.com/viniciusfonsecapr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusfonsecapr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/viniciusfonsecapr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfonsecapr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/viniciusfonseca"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+</ul>
