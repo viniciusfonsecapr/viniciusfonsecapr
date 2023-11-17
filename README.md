@@ -33,7 +33,7 @@
 <!--Intro start-->
 * 🌍  I'm based in São José dos Pinhais, Paraná, Brasil
 * 🖥️  See my portfolio at [My Portfolio in Github](http://https://github.com/viniciusfonsecapr/viniciusfonsecapr)
-* ✉️  You can contact me at my LinkedIn (https://www.linkedin.com/in/viniciusfonsecapr/) and (mailto: vinicius_fonseca30@hotmail.com)
+* ✉️  You can contact me at my LinkedIn (https://www.linkedin.com/in/viniciusfonsecapr/) and (mailto: vinciusfonsecapr@gmail.com)
 * 🧠  I'm learning React Native and its technology, both front and back-end
 * 🤝  I'm open to collaborating on In any project linked to technologies in my domain and open to new learning and new technologies
 <!--Intro end-->
