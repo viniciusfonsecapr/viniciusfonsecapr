@@ -5,8 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, My name is Vinicius Fonseca</h1>
-        <h2>I'm 24 years old, currently a fullstack and technology student. - Studying and improving my skills in Reactjs, Nodejs and React Native.
+    <summary><h1 style="display: inline-block">Hi 👋, Olá meu nome é Vinicius Fonseca</h1>
+        <h2>Tenho 24 anos, atualmente sou fullstack e estudante de tecnologia. Estudando e aprimorando minhas habilidades em Reactjs, Typescript, Nodejs e React Native.
 </h2>
     </summary>
 
