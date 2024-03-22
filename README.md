@@ -22,11 +22,11 @@
 </div> -->
 
 <!--Intro start-->
-* 🌍  I'm based in São José dos Pinhais, Paraná, Brasil
-* 🖥️  See my portfolio at [My Portfolio in Github](http://https://github.com/viniciusfonsecapr/viniciusfonsecapr)
-* ✉️  You can contact me at my LinkedIn (https://www.linkedin.com/in/viniciusfonsecapr/) and (mailto: viniciusfonsecapr@gmail.com)
-* 🧠  I'm learning React Native and its technology, both front and back-end
-* 🤝  I'm open to collaborating on In any project linked to technologies in my domain and open to new learning and new technologies
+* 🌍  Moro em São José dos Pinhais, Paraná, Brasil
+* 🖥️  Meu Portfolio hoje está por aqui no github [Meu portfólio no Github](http://https://github.com/viniciusfonsecapr/viniciusfonsecapr)
+* ✉️  Você pode entrar em contato comigo pelo meu LinkedIn (https://www.linkedin.com/in/viniciusfonsecapr/) e (mailto: viniciusfonsecapr@gmail.com)
+* 🧠  Estou aprendendo Typescript e em Breve buscando me aprofundar em React Native e suas tecnologias, tanto front quanto back-end.
+* 🤝  Estou aberto a colaborar em qualquer projeto vinculado a tecnologias do meu domínio e aberto a novos aprendizados e novas tecnologias
 <!--Intro end-->
 
 
