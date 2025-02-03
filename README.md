@@ -6,7 +6,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Olá 👋, meu nome é Vinicius Fonseca</h1>
-        <h2>Tenho 25 anos, atualmente sou frontend e estudante de tecnologia com foco em Web e Aplicativos. Também trabalho com Backend com uso de tecnologias relacionadas a Node/JS.
+        <h2>Tenho 25 anos, atualmente sou Front-end e estudante de tecnologia com foco em Web e Aplicativos. Também trabalho com Backend com uso de tecnologias relacionadas a Node/JS.
           Estudando e aprimorando minhas habilidades em Reactjs, Typescript, Nodejs e React Native.
 </h2>
     </summary>
